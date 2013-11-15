@@ -11,7 +11,7 @@ ZWPGradient *gradient = [[ZWPGradient alloc] initWithStartingColor:[UIColor whit
 
 ## Installation
 
-Add `pod 'ZWPGradient'` to your `Podfile` and then run `pod install`.
+Add `pod 'ZWPGradient', :git => 'https://github.com/zwopple/ZWPGradient.git'` to your `Podfile` and then run `pod install`.
 
 ## License
 
